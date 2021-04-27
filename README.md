@@ -1,1 +1,1 @@
-# CourseWork
+# Timus task
